@@ -18,7 +18,7 @@ def settingsApp = Seq(
     zioTest, 
     zioTestSBT, 
     zioTestMagnolia,
-    "ba.sake" %% "hepek-zio" % "0.20.0+2-8a772ac0+20231208-0750-SNAPSHOT"
+    "ba.sake" %% "hepek-zio" % "0.21.0"
   ),
 )
 
