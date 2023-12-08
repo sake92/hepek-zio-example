@@ -1,0 +1,13 @@
+body {
+    padding-top: 57px;
+    /* fixed top navbar */
+}
+
+.navbar-brand>span>img {
+    height: 30px;
+    /* make logo smaller */
+}
+
+.help-block {
+    display: inline;
+}
